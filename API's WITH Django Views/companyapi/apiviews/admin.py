@@ -24,3 +24,4 @@ admin.site.register(Employee,EmployeeAdmin)
 admin.site.register(Project,ProjectAdmin)
 admin.site.register(Department,DepartmentAdmin)
 admin.site.register(HrDepartment,HrDepartmentAdmin)
+

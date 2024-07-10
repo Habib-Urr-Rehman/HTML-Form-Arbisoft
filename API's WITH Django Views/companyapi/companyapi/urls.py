@@ -35,3 +35,4 @@ urlpatterns = [
     path('companies/<int:pk>/departments/', views.company_departments),
     path('projects/<int:pk>/employees/', views.project_employees),
 ]
+
